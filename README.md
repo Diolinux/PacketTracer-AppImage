@@ -6,11 +6,12 @@ Fork de: https://github.com/konradmb/PacketTracer-AppImage
 
 ### A configuration for [pkg2appimage](https://github.com/AppImage/pkg2appimage) to build Packet Tracer in AppImage form.
 
-## How to use it?
+## Como usar?
+
+*Tenha certeca de ter o pacote `git` instalado.
 
 1. Clone este repositório e mude para dentro dele usando `cd`
 
-Tenha certeca de ter o pacote `git` instalado.
     ```shell
     git clone https://github.com/konradmb/PacketTracer-AppImage.git
     cd PacketTracer-AppImage/
